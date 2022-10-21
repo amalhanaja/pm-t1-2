@@ -26,7 +26,7 @@ onMounted(() => {
       </div>
       <button v-if="count <= 0" @click="startCountDown">
         Mulai Hitung Mundur
-    </button>
+      </button>
     </div>
   </main>
 </template>
